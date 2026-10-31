@@ -1,0 +1,4 @@
+PraktikumMC/venv2/
+__pycache__/
+*.pyc
+.vscode/
