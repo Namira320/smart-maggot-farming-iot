@@ -7,6 +7,10 @@ An Internet of Things (IoT) project for real-time environmental monitoring using
 ## 📺 Demo Video
 [![Watch the video](https://img.youtube.com/vi/fSSndOG5Fng/hqdefault.jpg)](https://youtu.be/fSSndOG5Fng)
 
+## 📄 Project Documentation
+
+[smart-maggot-farming-iot](./smart-maggot-farming-iot.pdf)
+
 ---
 
 ## 🔍 Overview
