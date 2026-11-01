@@ -4,6 +4,11 @@ An Internet of Things (IoT) project for real-time environmental monitoring using
 
 ---
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/fSSndOG5Fng/hqdefault.jpg)](https://youtu.be/fSSndOG5Fng)
+
+---
+
 ## 🔍 Overview
 
 Environmental parameters such as temperature and relative humidity require strict monitoring across agricultural and cultivation sectors (such as 🐛 maggot farming) to ensure optimal growth conditions. 
